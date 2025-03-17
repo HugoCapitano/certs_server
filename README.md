@@ -1,5 +1,5 @@
 
-# 🔐 OCSP Responder — Projet IoT2 | MASMZI 2024-2025
+# 🔐 OCSP Responder — Projet IoT2 | MASI 2024-2025
 
 Ce projet met en place une **infrastructure de certification interne (PKI)** avec support de **révocation OCSP (Online Certificate Status Protocol)** dans le cadre du projet de livraison **MASMZI / IoT2**.
 

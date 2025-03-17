@@ -5,7 +5,7 @@ Ce projet met en place une **infrastructure de certification interne (PKI)** ave
 
 ## 📌 Objectif
 
-Permettre la **vérification en temps réel du statut des certificats internes** (API, bases de données, microservices) via un **responder OCSP local**, automatisé, et exposé pour les services du projet.
+Permettre la **vérification en temps réel du statut des certificats internes** (API, bases de données, microservices) via un **responder OCSP local**, automatisé.
 
 ---
 
@@ -16,7 +16,7 @@ Permettre la **vérification en temps réel du statut des certificats internes**
 | OpenSSL  | Génération des certificats, gestion du CA, OCSP |
 | Docker   | Conteneurisation du responder OCSP |
 | Bash     | Scripts d'automatisation |
-| Nginx *(optionnel)* | Reverse proxy HTTP pour exposer le responder |
+
 
 ---
 
@@ -96,9 +96,6 @@ cd ~/ca
 
 ---
 
-## 🌐 Mise à disposition réseau (OCSP as a Service)
-
-> Voir section suivante "Exposition via NGINX"
 
 ---
 

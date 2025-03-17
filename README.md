@@ -96,9 +96,6 @@ cd ~/ca
 
 ---
 
-## 🌐 Mise à disposition réseau (OCSP as a Service)
-
-> Voir section suivante "Exposition via NGINX"
 
 ---
 

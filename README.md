@@ -104,4 +104,4 @@ cd ~/ca
 
 ## ✍️ Auteur
 
-- Hugo, Projet IoT2 | MASMZI 2024-2025
+- Hugo, Projet IoT2 | MASI 2024-2025
